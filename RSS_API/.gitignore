@@ -26,3 +26,6 @@ errors.log
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+#keywords
+categoryKeywords.js
